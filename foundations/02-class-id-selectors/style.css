@@ -1,0 +1,21 @@
+.odd {
+    background-color: hwb(350 64% 3%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.odd.unique {
+    font-size: 24px;
+}
+
+#second {
+    color: hsl(240, 96%, 54%);
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#fourth {
+    background-color: rgb(78, 211, 78);
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
